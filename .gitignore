@@ -1,0 +1,4 @@
+#Exclude files ending:
+.in
+.out
+.pyc
