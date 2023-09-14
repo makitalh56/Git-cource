@@ -1,4 +1,4 @@
 #Exclude files ending:
-.in
-.out
-.pyc
+*.in
+*.out
+*.pyc
